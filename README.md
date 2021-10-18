@@ -1,4 +1,4 @@
-# Demo of machine learning deployment using Docker
+# Demo of machine learning webapp deployment using Docker
 
  The dataset that we have in this case is from an online platform about the historical transactions of customers. It contains the data points such as age, total pages viewed, and whether the customer is a new or repeat customer. The output variable contains whether the customer bought the product online or not. So, we are going to train a simple logistic regression model to make the predictions on the test data and later export it for deployment purposes. This project primarily focuses on the buidling the Flask API app and deploying the machine learning webapp through docker image.
 
