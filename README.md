@@ -11,6 +11,8 @@
 - Stop the container
 
 - ### To execute this set up, clone the repo in your system and build the image with the command ` docker build -t ml_app_docker .` , Make sure  all the files are in the same directory and command is executed from this directory.
+- ![dockerapp1](https://user-images.githubusercontent.com/57942586/137743122-3f7a3d2f-e46d-4174-8e54-6a75d35260a3.png)
+
 - ### Once the docker image is build, run this command `docker container run -p 5000:5000 ml_app_docker` to run the image.
 - ### Install docker desktop or any cloud platform which supports docker will be able to execute the above commands.
 - ### Once the docker image is running, you can visit - http://localhost://5000/apidocs to view the application.
