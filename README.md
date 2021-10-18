@@ -13,7 +13,7 @@
 - ## To execute this set up, clone the repo in your system and build the image with the command ` docker build -t ml_app_docker .` , Make sure  all the files are in the same directory and command is executed from this directory.
 - ## Once the docker image is build, run this command `docker container run -p 5000:5000 ml_app_docker` to run the image.
 - ## Install docker desktop or any cloud platform which supports docker will be able to execute the above commands.
-- ## In the end, you can visit - http://localhost://5000/apidocs to view the application.
+- ### Once the docker image is running, you can visit - http://localhost://5000/apidocs to view the application.
 
 
 Contributions, issues, and feature requests are welcome!
