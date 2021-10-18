@@ -1,4 +1,4 @@
-# ml_dockergcp_prj
+#Demo of machine learning deployment using Docker
 We will execute this process by following these steps:	
 - Train the ML model.
 - Save and export the ML model.	
